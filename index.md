@@ -1,7 +1,8 @@
 # Interessen & Leben
 
-| Gedanken        | Strahlenschutz           | ZXD  
-| ------------- |-------------| -----
-| Medi      | Körperarbeit | X 
+| --------- | -------------- | ---
+| Gedanken  | Strahlenschutz | ZXD  
+| --------- |--------------- | ----
+| Medi      | Körperarbeit   | X 
 
 ---
