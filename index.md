@@ -5,8 +5,12 @@
 
 > Strahlenschutz
 
-| x  | y | ZXD  
-| --------- |--------------- | ----
-| Medi      | Körperarbeit   | Familie 
+> ZXD  
+
+> Meditation 
+
+> Körperarbeit
+
+> Familie 
 
 ---
