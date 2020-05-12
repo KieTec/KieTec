@@ -1,11 +1,11 @@
 # Interessen & Leben
 
-![Gedanken][Ged]{height=200px width=300px}
 
-[Ged]: https://openclipart.org/image/400px/273488 "Gedanken"
+> Gedanken
 
+> Strahlenschutz
 
-| x  | Strahlenschutz | ZXD  
+| x  | y | ZXD  
 | --------- |--------------- | ----
 | Medi      | Körperarbeit   | Familie 
 
