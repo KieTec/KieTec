@@ -2,6 +2,4 @@
 
 ---
 
-| Gedanken        | Strahlenschutz           | ZXD  
-| ------------- |-------------| -----
-| Medi      | Körperarbeit | X 
+Diese Seite ist für...
