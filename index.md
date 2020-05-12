@@ -1,6 +1,5 @@
 # Interessen & Leben
 
-|           |                |      
 | --------- |--------------- | ----
 | Gedanken  | Strahlenschutz | ZXD  
 | --------- |--------------- | ----
