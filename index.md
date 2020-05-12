@@ -1,3 +1,6 @@
 # Interessen & Leben
 
-Tabelle
+| Gedanken        | Strahlenschutz           | ZXD  
+| ------------- |-------------| -----
+| Medi      | Körperarbeit | X 
+
